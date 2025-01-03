@@ -1,0 +1,4 @@
+build/
+.vscode/
+flash.log
+.DS_store
